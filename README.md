@@ -2,27 +2,22 @@
  
 ## 👋 Bienvenido
 Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
- 
----
- 
+
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-(Respuesta)
+Aprender brevemente acerca el funcionamiento de Github y guarde versiones de mi documento
  
 ### 😮 ¿Qué es GitHub?
-(Respuesta)
+Un controlador de versiones
  
 ### 🎯 ¿Para qué me sirve?
-(Respuesta)
- 
----
+Para realizar un seguimiento de las versiones de mis archivos
  
 ## ✍️ Mi progreso
 Aquí ya realicé varios cambios en GitHub.
- 
----
+50%
  
 ## 👤 Sobre mí
-Nombre:
-Curso: 
+Nombre: Elian Romero
+Curso: Diploma 1D
