@@ -20,3 +20,6 @@ Para realizar un seguimiento de las versiones de los archivos
 ## 👤 Sobre mí
 Nombre: Elian Romero
 Curso: Ruta 3 Diploma 1D
+
+Fecha: 31/3/2026
+Hora: 12:31
