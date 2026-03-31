@@ -6,18 +6,17 @@ Este es mi primer repositorio. Aquí empecé a trabajar con GitHub.
 ## ✅ Respuestas
  
 ### 🧪 ¿Qué hice aquí?
-Aprender brevemente acerca el funcionamiento de Github y guarde versiones de mi documento
+Aprender brevemente acerca el funcionamiento de Github y guarde versiones del documento
  
 ### 😮 ¿Qué es GitHub?
-Un controlador de versiones
+Un controlador de varias versiones
  
 ### 🎯 ¿Para qué me sirve?
-Para realizar un seguimiento de las versiones de mis archivos
+Para realizar un seguimiento de las versiones de los archivos
  
 ## ✍️ Mi progreso
-Aquí ya realicé varios cambios en GitHub.
 50%
  
 ## 👤 Sobre mí
 Nombre: Elian Romero
-Curso: Diploma 1D
+Curso: Ruta 3 Diploma 1D
